@@ -1,0 +1,10 @@
+Tienen que ver con las declaraciones if, si se cumple determinada accion, devuelve True(verdadero), y el programa sigue de una manera, si no se cumple, devuelve False(falso) y el programa sigue de otra manera.
+-Variables-
+Son espacios donde puedo guardar diferentes datos, ya sean valores numericos o en forma de texto, luego puedo remitirme a ellos para usarlos a medida que los vaya necesitando.
+-Strings-
+Son datos en forma de texto, siempre se escriben entre comillas.
+-Funciones-
+Son tareas especificas que se realizan dentro de un programa, tienen argumentos que son variables o valores declarados dentro de las funciones que se utilizan para llevar a cabo dichas tareas, luego se le informa o devuelve al usuario el resultado.
+-Declaraciones if-
+Son condicionales, se usan para saber si se cumple determinada accion o no.
+-Valores booleanos(true, false)
