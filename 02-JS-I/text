@@ -1,4 +1,4 @@
-Tienen que ver con las declaraciones if, si se cumple determinada accion, devuelve True(verdadero), y el programa sigue de una manera, si no se cumple, devuelve False(falso) y el programa sigue de otra manera.
+
 -Variables-
 Son espacios donde puedo guardar diferentes datos, ya sean valores numericos o en forma de texto, luego puedo remitirme a ellos para usarlos a medida que los vaya necesitando.
 -Strings-
@@ -8,3 +8,4 @@ Son tareas especificas que se realizan dentro de un programa, tienen argumentos 
 -Declaraciones if-
 Son condicionales, se usan para saber si se cumple determinada accion o no.
 -Valores booleanos(true, false)
+Tienen que ver con las declaraciones if, si se cumple determinada accion, devuelve True(verdadero), y el programa sigue de una manera, si no se cumple, devuelve False(falso) y el programa sigue de otra manera.
